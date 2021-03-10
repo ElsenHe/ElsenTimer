@@ -7,8 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-#AndroidDevChallenge - Jetpack Compose, Week 2 Submission Form
-A Timer
+A timer,using jetpack compose!
 
 
 ## :bulb: Motivation and Context
